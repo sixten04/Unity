@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "name": "test item 1",
+            "description": "this is a test item1",
+            "weight": 1,
+            "sprite": ""
+        },
+        {
+            "id": 1,
+            "name": "test item 2",
+            "description": "this is a test item2",
+            "weight": 1,
+            "sprite": ""
+        }
+    ]
+}
